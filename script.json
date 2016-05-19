@@ -1,5 +1,5 @@
 {
-    "BOT": "Hi there!\nI’m the personal bot of Peter, a geek from the Isle of Man.\n![Peter](https://raw.githubusercontent.com/esthercrawford/smooch-bot-example/master/img/esther.jpg)\nWant to know more about bots or learn about Peter? %[I'm here for the bot](postback:here_for_the_bot) %[Learn about Peter](postback:learn_about_peter) %[One random fact!](postback:random_fact)",
+    "BOT": "Hi there!\nI’m the personal bot of Peter, a geek from the Isle of Man.\n![Peter](https://my.netcetera.co.uk/support/__swift/themes/__cp/images/kayako-logo-gray.png)\nWant to know more about bots or learn about Peter? %[I'm here for the bot](postback:here_for_the_bot) %[Learn about Peter](postback:learn_about_peter) %[One random fact!](postback:random_fact)",
     "HELLO": "Hey, I'm so glad you set NetceteraBot up! Do you want to tell Peter that you're talking to his bot? %[Tell him](postback:twitter)",
     "TELL HIM": "Let's tweet @ Netcetera so he knows you're setting a bot up. Here's a tweet that's ready to go: %[Tweet Netcetera](http://bit.ly/netcetera)",
     "I LOVE YOU": "Awh, shucks! I love you too!",
